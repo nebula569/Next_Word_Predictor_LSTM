@@ -7,15 +7,3 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Data and model artifacts
-data.txt
-*.h5
-*.keras
-*.pkl
-
-# OS / IDE
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
